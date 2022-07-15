@@ -7,7 +7,7 @@ quakeF是以终端命令行来执行查询的工具
 
 在conf.ini中配置你的key，可以配置多个
 
-默认会选择编号为1的key，通过：-key 2 这种方式来切换key
+默认会选择编号为1的key，通过：-k 2 这种方式来切换key
 
 <img width="679" alt="image" src="https://user-images.githubusercontent.com/53268974/179149610-a6ec6f27-6d4d-49a6-8221-14395ad08bb0.png">
 
